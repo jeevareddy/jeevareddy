@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jeevanantham-manisekaran-340260135/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prithvi-rajan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeevanantham-manisekaran-340260135/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeevareddy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,12 +30,12 @@
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevareddy&show_icons=true&locale=en&layout=compact" alt="prithvi-rajan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevareddy&show_icons=true&locale=en&layout=compact" alt="jeevareddy" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevareddy&show_icons=true&locale=en" alt="prithvi-rajan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevareddy&show_icons=true&locale=en" alt="jeevareddy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevareddy&" alt="prithvi-rajan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevareddy&" alt="jeevareddy" /></p>
 
 
 <h3 align="left">My Flutter Plugins</h3>
@@ -43,6 +43,6 @@
  <li>
   <h2>RDSERVICE</h2>
   <p align="left">A flutter plugin to read biometric data from an externally connected scanners like Mantra MFS100, Morpho. It has support for Android as of now.</p>
-  <p>Check it out on <a hred="https://pub.dev/packages/rdservice">pub.dev</a></p>
+  <p>Check it out on [pub.dev](https://pub.dev/packages/rdservice)</p>
  </li>
 </ul>
