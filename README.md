@@ -43,6 +43,6 @@
  <li>
   <h2>RDSERVICE</h2>
   <p align="left">A flutter plugin to read biometric data from an externally connected scanners like Mantra MFS100, Morpho. It has support for Android as of now.</p>
-  <p>Check it out on [pub.dev](https://pub.dev/packages/rdservice)</p>
+  <p>Check it out on <a href="https://pub.dev/packages/rdservice" >pub.dev</a></p>
  </li>
 </ul>
