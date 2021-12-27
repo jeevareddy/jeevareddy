@@ -12,6 +12,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Commit
-        uses: EndBug/add-and-commit@v7
-        with:
-          default_author: github_actor
+        run: |
+          git commit --allow-empty -m "Actioner: Auto Commit",
+          git push
