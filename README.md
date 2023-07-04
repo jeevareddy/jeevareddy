@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Something new that makes me happy 😊**
 
-- 👨‍💻 Personal Website at [flowcv.me/jeevanantham-manisekaran](https://flowcv.me/jeevanantham-manisekaran)
+- 👨‍💻 Personal Website at [flowcv.me/jeeva](https://flowcv.me/jeeva)
 
 - 💬 Ask me about **Flutter, Spring, Angular, IoT**
 
